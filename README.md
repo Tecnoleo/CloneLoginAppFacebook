@@ -7,3 +7,5 @@ Etapas do projeto (front-end) a baixo: <br>
 01-Levantamento de recursos como: icones, links, textos, estrutura  <br>
 02- Código Html; <br >
 03- CSS; <br>
+<br>
+Atualização do projeto: feito a estrutura semântica do projeto
